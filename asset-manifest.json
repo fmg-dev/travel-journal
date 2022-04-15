@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fmg-dev/travel-journal.github.io/static/css/main.ce497a56.css",
-    "main.js": "/fmg-dev/travel-journal.github.io/static/js/main.329b7e75.js",
-    "index.html": "/fmg-dev/travel-journal.github.io/index.html",
-    "main.ce497a56.css.map": "/fmg-dev/travel-journal.github.io/static/css/main.ce497a56.css.map",
-    "main.329b7e75.js.map": "/fmg-dev/travel-journal.github.io/static/js/main.329b7e75.js.map"
+    "main.css": "/traveljournal/static/css/main.ce497a56.css",
+    "main.js": "/traveljournal/static/js/main.329b7e75.js",
+    "index.html": "/traveljournal/index.html",
+    "main.ce497a56.css.map": "/traveljournal/static/css/main.ce497a56.css.map",
+    "main.329b7e75.js.map": "/traveljournal/static/js/main.329b7e75.js.map"
   },
   "entrypoints": [
     "static/css/main.ce497a56.css",
