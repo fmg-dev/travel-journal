@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fmg-dev/travel-journal.github.io/static/css/main.ce497a56.css",
+    "main.js": "/fmg-dev/travel-journal.github.io/static/js/main.329b7e75.js",
+    "index.html": "/fmg-dev/travel-journal.github.io/index.html",
+    "main.ce497a56.css.map": "/fmg-dev/travel-journal.github.io/static/css/main.ce497a56.css.map",
+    "main.329b7e75.js.map": "/fmg-dev/travel-journal.github.io/static/js/main.329b7e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce497a56.css",
+    "static/js/main.329b7e75.js"
+  ]
+}
