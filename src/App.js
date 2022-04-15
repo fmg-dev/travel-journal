@@ -3,8 +3,8 @@ import { Content } from './components/Content';
 import { Header } from './components/Header';
 import data from './travel-data'
 import './style.css'
-function App() {
 
+function App() {
   const content = data.map(card => {
     return (
       <Content
