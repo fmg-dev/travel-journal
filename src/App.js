@@ -16,10 +16,7 @@ function App() {
   return (
     <div>
       <Header />
-      <section className='display'>
-        {content}
-      </section>
-      
+      {content}
     </div>
   );
 }
